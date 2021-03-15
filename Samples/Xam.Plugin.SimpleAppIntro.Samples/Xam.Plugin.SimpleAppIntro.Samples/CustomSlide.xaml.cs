@@ -15,7 +15,7 @@ namespace Xam.Plugin.SimpleAppIntro.Samples
 
         public void Save()
         {
-            Console.Write("Data Saved");
+            Console.WriteLine("Data Saved");
         }
 
         public bool Validate()
